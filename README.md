@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankarpal&theme=onedark&count_private=true" alt="priyankarpal" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priyankarpal&repo=CodeShopp&theme=onedark)](https://github.com/priyankarpal/CodeShopp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priyankarpal&repo=CodeShopp&theme=onedark&show_owner=true)](https://github.com/priyankarpal/CodeShopp)
