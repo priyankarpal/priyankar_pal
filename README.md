@@ -49,5 +49,5 @@
 
 <b>My GitHub Stats</b>
 
-![Priyankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankarpal&show_icons=true&theme=radical)
+![Priyankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankarpal&count_private=true&show_icons=true&theme=radical)
 <a href="http://www.github.com/priyankarpal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyankarpal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
