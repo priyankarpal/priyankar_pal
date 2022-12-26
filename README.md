@@ -4,7 +4,7 @@
 
 <h1 align="center"> Web Developer | Tech Blogger </h1>
 
-**Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. I work as a freelance web developer for my clients. I also worked using dart & flutter, I made a game called Tic Tac Toe. This game is avilable on Google Play Store**
+<h4 align="center">Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. I work as a freelance web developer for my clients. I also worked using dart & flutter, I made a game called Tic Tac Toe. This game is avilable on Google Play Store </h4>
 
 <h1 align="center"> Technical Skills 🧑🏻‍💻 🛠 </h1>
 
@@ -45,10 +45,8 @@
 <a href="https://www.twitter.com/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  /></a>
 </p>
 
-
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankarpal&count_private=true&show_icons=true&theme=radical"/></p>
 </div>
-
 
 ![Priyankar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyankarpal&bg_color=141321&color=ffffff&line=1eff00&point=ddd9d9&area=true&hide_border=true)
