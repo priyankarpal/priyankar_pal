@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, Devs</h1><h1 align="center" style="color:red;"></><a href="https://www.twitter.com/priyankarpal/" target="_blank"> it's Priyankar Pal</a></h1>
+<h1 align="center" >Hi, Devs<a href="https://www.twitter.com/priyankarpal/" target="_blank"> it's Priyankar Pal</a></h1>
 
 ## ![Priyankar](priyankar.png)
 
