@@ -1,28 +1,16 @@
-<h1 align="center" >Hi, Devs<a href="https://www.twitter.com/priyankarpal/" target="_blank"> it's Priyankar Pal</a></h1>
+<h1 align="center" >Hi, Devs I'm <a href="https://www.twitter.com/priyankarpal/" target="_blank"> Priyankar Pal</a> 😎</h1>
 
 ## ![Priyankar](priyankar.png)
 
-<h1 align="center"> Web Developer | Tech Blogger </h1>
+<h1 align="center"> Web Developer | Tech Blogger 🚀 </h1>
 
 <h4 align="center">
-Hello, Developers, I'm Priyankar Pal from India 🇮🇳 , currently, I'm a 1st-year Computer Science Engineering Student & pursuing my Degree.  I've 2 years+ of knowledge in the web development field.  I'm working as a freelance web developer for my clients. In the previous 2 years, I gained a lot of knowledge in Coding, bogging, and UI/UX design.
+Hello, Developers, I'm Priyankar Pal a Paasionate Web Developer from India 🇮🇳 , currently, I'm a 1st-year Computer Science Engineering Student & pursuing my Degree.  I've 2 years+ of knowledge in the web development field.  I'm working as a freelance web developer for my clients & contributing to Open Source Projects. In the previous 2 years, I gained a lot of knowledge in Coding, bogging, and UI/UX design.
 </h4>
-
-<h1 align="center"> 😁 Projects I've made & making</h1>
-
-<p align="center">
-
-| Projects Name | Description |
-| --- | --- |
-| [Portfolio Website](https://priyankarpal.netlify.app/) | **I made my portfolio website using HTML5,CSS3, Bootstrap & JS. I hosted it on Netlify. This is a responsive website** |
-| [VS Code Extension](https://github.com/priyankarpal/DarkThemeVsCode)| **Using Yo Code - Extension Generator I made my first VS Code Theme Extension** |
-| [Game](https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game) |**After learning Dart & Flutter I'm able to build this cross-platform game. This game is available only on Google Play Store** <a href="https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /></a>  |
-| [Agency Website](https://agencywebsites.netlify.app/) | **Using HTML5, CSS3, Bootstrap & JS I created this Agency Website & hosted it on Netlify. This is also a responsive website** |
-</p>
-
 
 <h1 align="center"> Technical Skills 🧑🏻‍💻 🛠 </h1>
 
+<h4 align="center"> My first programming language was C then C++ & JAVA. After learning these I started to develop website using HTML5 & CSS3. After that I added JS into it and continuing to develop websites. In that time I learned Git, GitHub, NPM & some CSS3's Frameworks called Bootstrap, Tailwind CSS. With these I started to use Kali linux. I made some projects & started freelancing.  Also I know to make Crossplatfrom apps using Flutter frameworks. Currently I'm focusing on Open Source projects.  </h4>
 <p align="center">
         <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
         <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
@@ -49,6 +37,19 @@ Hello, Developers, I'm Priyankar Pal from India 🇮🇳 , currently, I'm a 1st-
 <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source%20Initiative-3DA639.svg?style=for-the-badge&logo=Open-Source-Initiative&logoColor=white" />
 
 </p>
+
+<h1 align="center"> Projects I've made & making 😁 </h1>
+
+<p align="center">
+
+| Projects Name | Description |
+| --- | --- |
+| [Portfolio Website](https://priyankarpal.netlify.app/) | **I made my portfolio website using HTML5,CSS3, Bootstrap & JS. I hosted it on Netlify. This is a responsive website** |
+| [VS Code Extension](https://github.com/priyankarpal/DarkThemeVsCode)| **Using Yo Code - Extension Generator I made my first VS Code Theme Extension** |
+| [Game](https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game) |**After learning Dart & Flutter I'm able to build this cross-platform game. This game is available only on Google Play Store** <a href="https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /></a>  |
+| [Agency Website](https://agencywebsites.netlify.app/) | **Using HTML5, CSS3, Bootstrap & JS I created this Agency Website & hosted it on Netlify. This is also a responsive website** |
+</p>
+
 
 <h1 align="center"> Connect with me 🤝</h1>
 
