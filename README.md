@@ -1,21 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is priyankarpal
-====================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is priyankarpal
 
-Web Developer 
----------------
+## ![Priyankar](priyankar.png)
 
 Hey strangers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of experience in web development. I built websites using custom coding and using CMS \[Like Wordpress\]. I work as a Freelance Web Developer remotely.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [here](http://priyankarpal.netlify.app)
-* ✉️  You can contact me at [priyankarpal9@gmail.com](mailto:priyankarpal9@gmail.com)
-* 🚀  I'm currently working on [Dark VS Code Theme](http://github.com/priyankarpal/DarkThemeVsCode)
-* 🧠  I'm learning cool Technology
-* 🤝  I'm open to collaborating on cool open source projects
-* ⚡  I know I'm lazy
+- 🌍  I'm based in India
+- 🖥️  See my portfolio at [here](http://priyankarpal.netlify.app)
+- ✉️  You can contact me at [priyankarpal9@gmail.com](mailto:priyankarpal9@gmail.com)
+- 🚀  I'm currently working on [Dark VS Code Theme](http://github.com/priyankarpal/DarkThemeVsCode)
+- 🧠  I'm learning cool Technology
+- 🤝  I'm open to collaborating on cool open source projects
+- ⚡  I know I'm lazy
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -32,7 +29,6 @@ Hey strangers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of experience
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 ### Socials
 
