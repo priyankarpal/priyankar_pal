@@ -7,7 +7,9 @@
 <h4 align="center">Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. I work as a freelance web developer for my clients. I also worked using dart & flutter, I made a game called Tic Tac Toe. This game is avilable on Google Play Store 
 </h4>
 
-<p align="center" ></p><a href="https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game" ><img alt="Play Store" src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /> </a></p>
+<p align="Center"> 
+<a href="https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /></a> 
+</p>
 
 <h1 align="center"> Technical Skills 🧑🏻‍💻 🛠 </h1>
 
