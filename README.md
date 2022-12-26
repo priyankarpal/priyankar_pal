@@ -4,6 +4,7 @@
 
 **Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of experience in web development field. Now I'm a 1st year Engineering Student. I built websites using custom coding and using CMS \[Like Wordpress\]. I work as a Freelance Web Developer remotely.**
 
+<font size="3"> 
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [here](http://priyankarpal.netlify.app)
 - ✉️  You can contact me at [priyankarpal9@gmail.com](mailto:priyankarpal9@gmail.com)
@@ -11,7 +12,7 @@
 - 🧠  I'm learning cool Technology
 - 🤝  I'm open to collaborating on cool open source projects
 - ⚡  I know I'm lazy
-
+</font>
 ### Skills
 
 <p align="left">
