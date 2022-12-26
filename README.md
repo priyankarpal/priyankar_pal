@@ -34,6 +34,9 @@
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/ABB%20RobotStudio-FF9E0F.svg?style=for-the-badge&logo=ABB-RobotStudio&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 <img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" />
 
 </p>
 
