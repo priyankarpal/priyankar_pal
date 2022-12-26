@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, strangers it's priyankar</h1>
 <h3 align="center">A freelance developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on [Codeshopp](https://github.com/priyankarpal/CodeShopp)
+- 🔭 I’m currently working on [DarkThemeVsCode](https://github.com/priyankarpal/DarkThemeVsCode)
 
 - 🌱 I’m currently learning **ReactJS,NodeJs,ExpressJs,MongoDB**
 
