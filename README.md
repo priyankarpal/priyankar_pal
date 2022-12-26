@@ -4,7 +4,8 @@
 
 <h1 align="center"> Web Developer | Tech Blogger </h1>
 
-<h4 align="center">Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. I work as a freelance web developer for my clients. I also worked using dart & flutter, I made a game called Tic Tac Toe. This game is avilable on Google Play Store </h4>
+<h4 align="center">Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. I work as a freelance web developer for my clients. I also worked using dart & flutter, I made a game called Tic Tac Toe. This game is avilable on Google Play Store 
+        <img alt="Play Store" src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /> </h4>
 
 <h1 align="center"> Technical Skills 🧑🏻‍💻 🛠 </h1>
 
