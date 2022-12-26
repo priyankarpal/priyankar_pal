@@ -2,8 +2,9 @@
 
 ## ![Priyankar](priyankar.png)
 
-**Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge of web development field. Now I'm a 1st year Computer Science Engineering Student. Previously I worked as a freelance web developer for my local client**
+**Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. Previously I worked as a freelance web developer for my local client**
 
+<p align="center"> Web Developer | Tech Blogger </p>
 
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [here](http://priyankarpal.netlify.app)
