@@ -2,7 +2,7 @@
 
 ## ![Priyankar](priyankar.png)
 
-**Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of experience in web development field. Now I'm a 1st year Engineering Student. I built websites using custom coding and using CMS \[Like Wordpress\]. I work as a Freelance Web Developer remotely.**
+**Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge of web development field. Now I'm a 1st year Computer Science Engineering Student. Previously I worked as a freelance web developer for my local client**
 
 
 - 🌍  I'm based in India
