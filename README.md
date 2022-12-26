@@ -46,5 +46,4 @@
 </p>
 
 ![Priyankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankarpal&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankarpal&layout=compact)](https://github.com/priyankarpal/github-readme-stats)
 ![Priyankar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyankarpal&bg_color=141321&color=ffffff&line=1eff00&point=ddd9d9&area=true&hide_border=true)
