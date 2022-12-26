@@ -4,7 +4,7 @@
 
 **Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. Previously I worked as a freelance web developer for my local client**
 
-<p align="center"> Web Developer | Tech Blogger </p>
+<h3 align="center"> Web Developer | Tech Blogger </h3>
 
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [here](http://priyankarpal.netlify.app)
