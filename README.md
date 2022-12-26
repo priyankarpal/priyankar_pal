@@ -4,12 +4,22 @@
 
 <h1 align="center"> Web Developer | Tech Blogger </h1>
 
-<h4 align="center">Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. I work as a freelance web developer for my clients. I also worked using dart & flutter, I made a game called Tic Tac Toe. This game is avilable on Google Play Store 
+<h4 align="center">
+Hello, Developers, I'm Priyankar Pal from India 🇮🇳 , currently, I'm a 1st-year Computer Science Engineering Student & pursuing my Degree.  I've 2 years+ of knowledge in the web development field.  I'm working as a freelance web developer for my clients. In the previous 2 years, I gained a lot of knowledge in Coding, bogging, and UI/UX design.
 </h4>
 
-<p align="Center"> 
-<a href="https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /></a> 
+<h1 align="center"> 😁 Projects I've made & making</h1>
+
+<p align="center">
+
+| Projects Name | Description |
+| --- | --- |
+| [Portfolio Website](https://priyankarpal.netlify.app/) | **I made my portfolio website using HTML5,CSS3, Bootstrap & JS. I hosted it on Netlify. This is a responsive website** |
+| [VS Code Extension](https://github.com/priyankarpal/DarkThemeVsCode)| **Using Yo Code - Extension Generator I made my first VS Code Theme Extension** |
+| [Game](https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game) |**After learning Dart & Flutter I'm able to build this cross-platform game. This game is available only on Google Play Store** <a href="https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /></a>  |
+| [Agency Website](https://agencywebsites.netlify.app/) | **Using HTML5, CSS3, Bootstrap & JS I created this Agency Website & hosted it on Netlify. This is also a responsive website** |
 </p>
+
 
 <h1 align="center"> Technical Skills 🧑🏻‍💻 🛠 </h1>
 
