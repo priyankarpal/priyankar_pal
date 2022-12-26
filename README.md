@@ -45,12 +45,10 @@
 <a href="https://www.twitter.com/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  /></a>
 </p>
 
-![Priyankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankarpal&count_private=true&show_icons=true&theme=radical)
-
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankarpal&count_private=true&show_icons=true&theme=radical"/></p>
-  </div>
+</div>
 
 
 ![Priyankar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyankarpal&bg_color=141321&color=ffffff&line=1eff00&point=ddd9d9&area=true&hide_border=true)
