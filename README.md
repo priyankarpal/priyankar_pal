@@ -4,7 +4,7 @@
 
 **Hello, developers, I'm Priyankar Pal from India 🇮🇳 I've 2 years+ of knowledge on web development field. Now I'm a 1st year Computer Science Engineering Student. Previously I worked as a freelance web developer for my local client**
 
-<h3 align="center"> Web Developer | Tech Blogger </h3>
+<h1 align="center"> Web Developer | Tech Blogger </h1>
 
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [here](http://priyankarpal.netlify.app)
@@ -14,7 +14,7 @@
 - 🤝  I'm open to collaborating on cool open source projects
 - ⚡  I know I'm lazy
 
-<h1 align="center"> Technical Skills 🛠</h1>
+<h1 align="center"> Technical Skills 🧑🏻‍💻 🛠 </h1>
 
 <p align="center">
         <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
