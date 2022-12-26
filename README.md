@@ -46,6 +46,10 @@
 </p>
 
 ![Priyankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankarpal&count_private=true&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankarpal&count_private=true&show_icons=true&theme=radical">
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=priyankarpal&count_private=true&show_icons=true&theme=radical" />
+
+</div>
 
 ![Priyankar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyankarpal&bg_color=141321&color=ffffff&line=1eff00&point=ddd9d9&area=true&hide_border=true)
