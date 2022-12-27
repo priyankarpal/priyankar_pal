@@ -8,7 +8,7 @@
 Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India 🇮🇳 , currently, I'm a 1st-year Computer Science Engineering Student & pursuing my Degree.  I've 2 years+ of knowledge in the web development field.  I'm working as a freelance web developer for my clients & contributing to Open Source Projects. In the previous 2 years, I gained a lot of knowledge in Coding, bogging, and UI/UX design.
 </h4>
 
-<h1 align="center"> Technical Skills 🧑🏻‍💻 🛠 </h1>
+<h1 align="center"> Technical Skills 🧑🏻‍💻 🛠</h1>
 
 <h4 align="left"> My first programming language was C then C++ & JAVA. After learning these I started to develop website using HTML5 & CSS3. After that I added JS into it and continuing to develop websites. In that time I learned Git, GitHub, NPM & some CSS3's Frameworks called Bootstrap, Tailwind CSS. With these I started to use Kali linux. I made some projects & started freelancing.  Also I know to make Crossplatfrom apps using Flutter frameworks. Currently I'm focusing on Open Source projects.  </h4>
 
