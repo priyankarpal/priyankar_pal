@@ -39,7 +39,7 @@ Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India 🇮�
 
 </p>
 
-<h1 align="center"> Projects I've made & making 😁 </h1>
+<h1 align="center"> Projects I've made 😁 </h1>
 
 <p align="center">
 
