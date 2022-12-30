@@ -45,10 +45,11 @@ Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India ðŸ‡®ð
 
 | Projects Name | Description |
 | --- | --- |
-| [Portfolio Website](https://priyankar.vercel.app/) | **I made my portfolio website using HTML5,CSS3, Bootstrap & JS. I hosted it on Netlify. This is a responsive website** |
+| [Portfolio Website](https://priyankar.vercel.app/) | **I made my portfolio website using HTML5,CSS3, Bootstrap & JS. I hosted it on Vercel. This is a responsive website** |
 | [VS Code Extension](https://github.com/priyankarpal/DarkThemeVsCode)| **Using Yo Code - Extension Generator I made my first VS Code Theme Extension** |
 | [Game](https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game) |**After learning Dart & Flutter I'm able to build this cross-platform game. This game is available only on Google Play Store** <a href="https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /></a>  |
-| [Agency Website](https://agencywebsites.vercel.app/) | **Using HTML5, CSS3, Bootstrap & JS I created this Agency Website & hosted it on Netlify. This is also a responsive website** |
+| [Agency Website](https://agencywebsites.vercel.app/) | **Using HTML5, CSS3, Bootstrap & JS I created this Agency Website & hosted it on Vercel. This is also a responsive website** |
+| [HTML Minifier](https://html-minify.vercel.app/) | **HTML Minifier Using HTML5, CSS3, & JS** |
 </p>
 
 
