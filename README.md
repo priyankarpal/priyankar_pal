@@ -50,6 +50,7 @@ Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India ðŸ‡®ð
 | [Game](https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game) |**After learning Dart & Flutter I'm able to build this cross-platform game. This game is available only on Google Play Store** <a href="https://play.google.com/store/apps/details?id=com.tictactoegamemadeforkids.game" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white" /></a>  |
 | [Agency Website](https://agencywebsites.vercel.app/) | **Using HTML5, CSS3, Bootstrap & JS I created this Agency Website & hosted it on Vercel. This is also a responsive website** |
 | [HTML Minifier](https://html-minify.vercel.app/) | **HTML Minifier Using HTML5, CSS3, & JS** |
+| [CSS Minifier](https://css-minifier.vercel.app/)   |**CSS Minifier Using HTML5,CSS3 and JS**|    
 </p>
 
 
