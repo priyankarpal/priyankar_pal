@@ -5,7 +5,7 @@
 <h1 align="center"> Web Developer | Tech Blogger 🚀 </h1>
 
 <h4 align="left">
-Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India 🇮🇳 , currently, I'm a 1st-year Computer Science Engineering Student & pursuing my Degree.  I've 2 years+ of knowledge in the web development field.  I'm working as a freelance web developer for my clients & contributing to Open Source Projects. In the previous 2 years, I gained a lot of knowledge in Coding, bogging, and UI/UX design.
+Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India 🇮🇳 , currently, I'm a 1st-year Computer Science Engineering Student & pursuing my Degree.  I've 2 years+ of knowledge in the web development field.  I'm working as a freelance web developer for my clients & contributing to Open Source Projects. In the previous 2 years, I gained a lot of knowledge in Coding, blogging, and UI/UX design.
 </h4>
 
 <h1 align="center"> Technical Skills 🧑🏻‍💻 🛠</h1>
