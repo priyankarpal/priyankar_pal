@@ -48,7 +48,7 @@ Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India 🇮�
 <a href="https://www.linkedin.com/in/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> 
 <a href="https://www.twitter.com/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  /></a>
 </p>
-<h1 align="center"> Projects I've made 😁 </h1>
+<h1 align="center"> Projects I made 😁 </h1>
 
 <p align="center">
 
