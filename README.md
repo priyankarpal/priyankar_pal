@@ -3,7 +3,7 @@
 <h1 align="center"> Web Developer | Tech Enthusiast 🚀 </h1>
 
 <h4 align="left">
-Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India 🇮🇳 , currently, I'm a 1st-year Computer Science Engineering Student & pursuing my Degree.  I've 2 years+ of knowledge in the web development field.  I'm working as a freelance web developer for my clients & contributing to Open Source Projects. In the previous 2 years, I gained a lot of knowledge in Coding, blogging, and UI/UX design.
+As a tech enthusiast, I am constantly exploring new and emerging technologies. My passion for programming has led me to specialize in C, C++, Java, and JavaScript. I am an avid Linux user and am always looking for ways to improve my skills and contribute to the open-source community. Web development is a particular interest of mine, and I am always on the lookout for new and exciting projects to work on. I believe that by collaborating with others and sharing our knowledge and expertise, we can push the boundaries of what is possible and make a positive impact on the world.
 </h4>
 
 <h1 align="center"> Technical Skills 🧑🏻‍💻 🛠</h1>
