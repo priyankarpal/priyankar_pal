@@ -27,7 +27,6 @@ Hello, Developers, I'm Priyankar Pal a Passionate Web Developer from India ðŸ‡®ð
         <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
         <img alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
         <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/ABB%20RobotStudio-FF9E0F.svg?style=for-the-badge&logo=ABB-RobotStudio&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 <img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
