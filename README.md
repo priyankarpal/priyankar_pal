@@ -52,7 +52,6 @@ As a tech enthusiast, I am constantly exploring new and emerging technologies. M
 # 📕 Latest Blogs
 
 <!-- *BLOG-POST-LIST:START* -->
-
 - [I bet you don&#39;t know these amazing VS Code Extensions 💯](https://priyankarpal.hashnode.dev/i-bet-you-dont-know-these-amazing-vs-code-extensions)
 - [How to Boot Kali Linux on Any Laptop or Desktop: Step-by-Step Guide 💯](https://priyankarpal.hashnode.dev/how-to-boot-kali-linux-on-any-laptop-or-desktop-step-by-step-guide)
 - [Netlify Or Vercel: Which One Is Right For You?🤔](https://priyankarpal.hashnode.dev/netlify-or-vercel-which-one-is-right-for-you)
