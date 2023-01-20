@@ -48,5 +48,6 @@ As a tech enthusiast, I am constantly exploring new and emerging technologies. M
 | **CSS Minifier**       | **Minify CSS Code**           | [Visit](https://css-minifier.vercel.app/)                                                    |     |
 </p>
 
-<!-- START_SECTION:activity
-END_SECTION:activity -->
+# Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
