@@ -1,14 +1,14 @@
 ## ![Priyankar](priyankar.png)
 
-<h1 align="center"> Web Developer | Tech Enthusiast 🚀 </h1>
+<h1 > Web Developer | Tech Enthusiast 🚀 </h1>
 
 <h4 align="left">
 As a tech enthusiast, I am constantly exploring new and emerging technologies. My passion for programming has led me to specialize in C, C++, Java, and JavaScript. I am an avid Linux user and am always looking for ways to improve my skills and contribute to the open-source community. Web development is a particular interest of mine, and I am always on the lookout for new and exciting projects to work on. I believe that by collaborating with others and sharing our knowledge and expertise, we can push the boundaries of what is possible and make a positive impact on the world
 </h4>
 
-<h1 align="center"> Technical Skills 🧑🏻‍💻 🛠</h1>
+<h1 > Technical Skills 🧑🏻‍💻 🛠</h1>
 
-<p align="center">
+<p >
         <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
         <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
         <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -27,17 +27,17 @@ As a tech enthusiast, I am constantly exploring new and emerging technologies. M
         <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" />
 </p>
 
-<h1 align="center"> Connect with me 🤝</h1>
-<p align="Center"> 
+<h1 > Connect with me 🤝</h1>
+<p > 
 <a href="https://www.github.com/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a> 
 <a href="https://priyankarpal.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white" /></a> 
 <a href="http://www.instagram.com/priyankarpal1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  /></a> 
 <a href="https://www.linkedin.com/in/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> 
 <a href="https://www.twitter.com/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  /></a>
 </p>
-<h1 align="center"> Creations 😁 </h1>
+<h1> Creations 😁 </h1>
 
-<p align="center">
+<p>
 
 | Projects               | Description                                        | Links                                                                                        |
 | ---------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | 
