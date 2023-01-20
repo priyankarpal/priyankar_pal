@@ -39,20 +39,23 @@ As a tech enthusiast, I am constantly exploring new and emerging technologies. M
 
 <p align="center">
 
-| Projects|Description| Links|
-| - |- |- |
-| **Quotes Builder**      | **A random motivational quotes generator website** | [Visit ](https://quotebuilder.vercel.app/)                                                   |     |
+| Projects               | Description                                        | Links                                                                                        |
+| ---------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | --- |
+| **Quotes Builder**     | **A random motivational quotes generator website** | [Visit ](https://quotebuilder.vercel.app/)                                                   |     |
 | **VS Code Dark Theme** | **A Theme Extension for VS Code**                  | [Visit](https://marketplace.visualstudio.com/items?itemName=PriyankarPal.darkthemeforvscode) |     |
 | **JokeHub**            | **Random funny jokes generator website**           | [Visit](https://jokeshub.vercel.app/)                                                        |     |
-| **HTML Minifier**      | **Minify HTML code**          | [Visit](https://html-minify.vercel.app/)                                                     |     |
-| **CSS Minifier**       | **Minify CSS Code**           | [Visit](https://css-minifier.vercel.app/)                                                    |     |
+| **HTML Minifier**      | **Minify HTML code**                               | [Visit](https://html-minify.vercel.app/)                                                     |     |
+| **CSS Minifier**       | **Minify CSS Code**                                | [Visit](https://css-minifier.vercel.app/)                                                    |     |
+
 </p>
 
-# Latest Blogs
-<!-- BLOG-POST-LIST:START -->
+## 📕 Latest Blogs
+
+<!-- *BLOG-POST-LIST:START* -->
+
 - [I bet you don&#39;t know these amazing VS Code Extensions 💯](https://priyankarpal.hashnode.dev/i-bet-you-dont-know-these-amazing-vs-code-extensions)
 - [How to Boot Kali Linux on Any Laptop or Desktop: Step-by-Step Guide 💯](https://priyankarpal.hashnode.dev/how-to-boot-kali-linux-on-any-laptop-or-desktop-step-by-step-guide)
 - [Netlify Or Vercel: Which One Is Right For You?🤔](https://priyankarpal.hashnode.dev/netlify-or-vercel-which-one-is-right-for-you)
 - [Web development tools and resources 🚀🧑🏻‍💻](https://priyankarpal.hashnode.dev/web-development-tools-and-resources)
 - [Make your simple GitHub profile to the next level. 💯](https://priyankarpal.hashnode.dev/make-your-simple-github-profile-to-the-next-level)
-<!-- BLOG-POST-LIST:END -->
+<!-- *BLOG-POST-LIST:END* -->
