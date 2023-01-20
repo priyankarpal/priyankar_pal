@@ -40,7 +40,7 @@ As a tech enthusiast, I am constantly exploring new and emerging technologies. M
 <p align="center">
 
 | Projects               | Description                                        | Links                                                                                        |
-| ---------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | --- |
+| ---------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | 
 | **Quotes Builder**     | **A random motivational quotes generator website** | [Visit ](https://quotebuilder.vercel.app/)                                                   |     |
 | **VS Code Dark Theme** | **A Theme Extension for VS Code**                  | [Visit](https://marketplace.visualstudio.com/items?itemName=PriyankarPal.darkthemeforvscode) |     |
 | **JokeHub**            | **Random funny jokes generator website**           | [Visit](https://jokeshub.vercel.app/)                                                        |     |
