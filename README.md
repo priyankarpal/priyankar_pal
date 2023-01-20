@@ -52,9 +52,9 @@ As a tech enthusiast, I am constantly exploring new and emerging technologies. M
 # 📕 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Reasons Why SCSS Is A Great Choice For Front-end Engineers?](https://priyankarpal.hashnode.dev/10-reasons-why-scss-is-a-great-choice-for-front-end-engineers)
 - [I bet you don&#39;t know these amazing VS Code Extensions 💯](https://priyankarpal.hashnode.dev/i-bet-you-dont-know-these-amazing-vs-code-extensions)
 - [How to Boot Kali Linux on Any Laptop or Desktop: Step-by-Step Guide 💯](https://priyankarpal.hashnode.dev/how-to-boot-kali-linux-on-any-laptop-or-desktop-step-by-step-guide)
 - [Netlify Or Vercel: Which One Is Right For You?🤔](https://priyankarpal.hashnode.dev/netlify-or-vercel-which-one-is-right-for-you)
 - [Web development tools and resources 🚀🧑🏻‍💻](https://priyankarpal.hashnode.dev/web-development-tools-and-resources)
-- [Make your simple GitHub profile to the next level. 💯](https://priyankarpal.hashnode.dev/make-your-simple-github-profile-to-the-next-level)
 <!-- BLOG-POST-LIST:END -->
