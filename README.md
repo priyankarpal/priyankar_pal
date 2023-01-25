@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/f31afe25fab347c99919ec3efa21263f.png?r=eon" width="400" alt="Priyankar Pal's Dev Card"/></a>
 </p>
+&nbsp
 <h1 >🚀 Web Developer | Tech Enthusiast  </h1>
 <h4>
 As a tech enthusiast, I am constantly exploring new and emerging technologies. My passion for programming has led me to specialize in C, C++, Java, and JavaScript. I am an avid Linux user and am always looking for ways to improve my skills and contribute to the open-source community. Web development is a particular interest of mine, and I am always on the lookout for new and exciting projects to work on. I believe that by collaborating with others and sharing our knowledge and expertise, we can push the boundaries of what is possible and make a positive impact on the world
