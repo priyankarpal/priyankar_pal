@@ -52,9 +52,9 @@ As a tech enthusiast, I am constantly exploring new and emerging technologies. M
 # 📕 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Stand out from Crowd: My 2022 journey as a student](https://priyankarpal.hashnode.dev/stand-out-from-crowd-my-2022-journey-as-a-student)
 - [How to set up SCSS in VS Code?](https://priyankarpal.hashnode.dev/how-to-set-up-scss-in-vs-code)
 - [How I created my PORTFOLIO website using only HTML5 &amp; SCSS?](https://priyankarpal.hashnode.dev/how-i-created-my-portfolio-website-using-only-html5-scss)
 - [How to start the coding journey as a Fresher?](https://priyankarpal.hashnode.dev/how-to-start-the-coding-journey-as-a-fresher)
 - [10 Reasons Why SCSS Is A Great Choice For Front-end Engineers?](https://priyankarpal.hashnode.dev/10-reasons-why-scss-is-a-great-choice-for-front-end-engineers)
-- [I bet you don&#39;t know these amazing VS Code Extensions 💯](https://priyankarpal.hashnode.dev/i-bet-you-dont-know-these-amazing-vs-code-extensions)
 <!-- BLOG-POST-LIST:END -->
