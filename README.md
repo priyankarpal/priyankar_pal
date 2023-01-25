@@ -1,7 +1,8 @@
 
 
 <p align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/f31afe25fab347c99919ec3efa21263f.png?r=eon" width="400" alt="Priyankar Pal's Dev Card"/></a>
+<a href="https://app.daily.dev/priyankarpal"><img src="https://github.com/priyankarpal/priyankarpal/blob/main/devcard.svg" width="400" alt="Priyankar's Dev Card"/></a>
+
 </p>
 &nbsp
 <h1 >🚀 Web Developer | Tech Enthusiast  </h1>
