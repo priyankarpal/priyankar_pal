@@ -30,19 +30,6 @@ I am a web developer with experience in Linux. I am currently expanding my skill
 <a href="https://www.linkedin.com/in/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> 
 <a href="https://www.twitter.com/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  /></a>
 </p>
-<h1>😁 Creations </h1>
-
-<p>
-
-| Projects               | Description| Links                                                                                        |
-| ---------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Quotes Builder**     | **A random motivational quotes generator website** | [Visit ](https://quotebuilder.vercel.app/)                                                   |     |
-| **VS Code Dark Theme** | **A Theme Extension for VS Code**                  | [Visit](https://marketplace.visualstudio.com/items?itemName=PriyankarPal.darkthemeforvscode) |     |
-| **JokeHub**            | **Random funny jokes generator website**           | [Visit](https://jokeshub.vercel.app/)                                                        |     |
-| **HTML Minifier**      | **Minify HTML code**                               | [Visit](https://html-minify.vercel.app/)                                                     |     |
-| **CSS Minifier**       | **Minify CSS Code**                                | [Visit](https://css-minifier.vercel.app/)                                                    |     |
-
-</p>
 
 # 📝 Latest Blogs of [Priyankar's](https://priyankarpal.hashnode.dev)
 
