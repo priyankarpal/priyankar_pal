@@ -2,7 +2,6 @@
 <a href="https://app.daily.dev/priyankarpal"><img src="https://github.com/priyankarpal/priyankarpal/blob/main/devcard.svg" width="300" align="right" alt="Priyankar's Dev Card"/></a>
 ![Metrics](/github-metrics.svg)
 
-### 📝 Recesnt blogs
 <!-- BLOG-POST-LIST:START -->
 - [Stand out from Crowd: My 2022 journey as a student](https://priyankarpal.hashnode.dev/stand-out-from-crowd-my-2022-journey-as-a-student)
 - [How to set up SCSS in VS Code?](https://priyankarpal.hashnode.dev/how-to-set-up-scss-in-vs-code)
