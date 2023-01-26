@@ -1,12 +1,7 @@
         
 <div align="center">
 <a href="https://app.daily.dev/priyankarpal"><img src="https://github.com/priyankarpal/priyankarpal/blob/main/devcard.svg" width="400" alt="Priyankar's Dev Card"/></a>
-
- </div>       
-
-<p align="right">
-
-</p>
+</div>       
 &nbsp
 <h1>🚀 Web Developer | Tech Enthusiast  </h1>
 <h4>
