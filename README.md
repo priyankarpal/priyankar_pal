@@ -45,4 +45,4 @@ I am a web developer with experience in Linux. I am currently expanding my skill
 - [10 Reasons Why SCSS Is A Great Choice For Front-end Engineers?](https://priyankarpal.hashnode.dev/10-reasons-why-scss-is-a-great-choice-for-front-end-engineers)
 <!-- BLOG-POST-LIST:END -->
 
-
+![Metrics](https://metrics.lecoq.io/priyankarpal?template=classic&base.hireable=true&base.header=0&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable=false&notable.from=all&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FCalcutta)
