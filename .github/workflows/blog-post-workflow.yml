@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://priyankarpal.hashnode.dev/rss.xml"
+          date_format: "mmm d, yyyy"
