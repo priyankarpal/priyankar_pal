@@ -1,4 +1,8 @@
-        
+<div align="center">
+  <img src="https://profile-counter.glitch.me/priyankarpal/count.svg?"  />
+</div>
+
+###
 <a href="https://app.daily.dev/priyankarpal"><img src="https://github.com/priyankarpal/priyankarpal/blob/main/devcard.svg" width="256" align="right" alt="Priyankar's Dev Card"/></a>
 <h1> 👋Hi, Pals</h1>
 I am a web developer with experience in Linux. I am currently expanding my skillset by learning Java and studying Data Structures and Algorithms.
