@@ -1,12 +1,8 @@
         
 <a href="https://app.daily.dev/priyankarpal"><img src="https://github.com/priyankarpal/priyankarpal/blob/main/devcard.svg" width="256" align="right" alt="Priyankar's Dev Card"/></a>
 <h1> 👋Hi, Pals</h1>
-
-As a tech enthusiast, I am constantly exploring new and emerging technologies. My passion for programming has led me to specialize in C, C++, Java, and JavaScript. I am an avid Linux user and am always looking for ways to improve my skills and contribute to the open-source community. Web development is a particular interest of mine, and I am always on the lookout for new and exciting projects to work on. I believe that by collaborating with others and sharing our knowledge and expertise, we can push the boundaries of what is possible and make a positive impact on the world
-
-
+I am a web developer with experience in Linux. I am currently expanding my skillset by learning Java and studying Data Structures and Algorithms.
 <h1 >🧑🏻‍💻 🛠 Technical Skills</h1>
-
 <p >
         <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
         <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
@@ -48,7 +44,7 @@ As a tech enthusiast, I am constantly exploring new and emerging technologies. M
 
 </p>
 
-# 📕 Latest Blogs
+# 📝 Latest Blogs of [Priyankar's](https://priyankarpal.hashnode.dev)
 
 <!-- BLOG-POST-LIST:START -->
 - [Stand out from Crowd: My 2022 journey as a student](https://priyankarpal.hashnode.dev/stand-out-from-crowd-my-2022-journey-as-a-student)
