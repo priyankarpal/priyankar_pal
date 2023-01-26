@@ -44,3 +44,6 @@ I am a web developer with experience in Linux. I am currently expanding my skill
 - [How to start the coding journey as a Fresher?](https://priyankarpal.hashnode.dev/how-to-start-the-coding-journey-as-a-fresher)
 - [10 Reasons Why SCSS Is A Great Choice For Front-end Engineers?](https://priyankarpal.hashnode.dev/10-reasons-why-scss-is-a-great-choice-for-front-end-engineers)
 <!-- BLOG-POST-LIST:END -->
+
+<img src="https://raw.githubusercontent.com/priyankarpal/priyankarpal/blob/output/snake.svg" alt="Snake animation" />
+
