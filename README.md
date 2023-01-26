@@ -3,7 +3,7 @@
 </div>
 
 
-<a href="https://app.daily.dev/priyankarpal"><img src="https://github.com/priyankarpal/priyankarpal/blob/main/devcard.svg" width="350" align="right" alt="Priyankar's Dev Card"/></a>
+<a href="https://app.daily.dev/priyankarpal"><img src="https://github.com/priyankarpal/priyankarpal/blob/main/devcard.svg" width="300" align="right" alt="Priyankar's Dev Card"/></a>
 ![Metrics](https://metrics.lecoq.io/priyankarpal?template=classic&base.hireable=true&base.header=0&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable=false&notable.from=all&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FCalcutta)
 # 📝 Latest Blogs of [Priyankar's](https://priyankarpal.hashnode.dev)
 
