@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics embed
 on:
-  # Schedule updates (each 10 minutes)
-  schedule: [{cron: "*/10 * * * *"}]
+  # Schedule updates (each 1hr)
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -27,8 +27,10 @@ jobs:
           # Options
           user: priyankarpal
           template: classic
-          base: activity, community, repositories
+          base: header, activity, community, repositories
           base_hireable: yes
+          base_indepth: yes
+          config_octicon: yes
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -42,4 +44,9 @@ jobs:
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
-
+          plugin_posts: yes
+          plugin_posts_covers: yes
+          plugin_posts_descriptions: yes
+          plugin_posts_limit: 2
+          plugin_posts_source: hashnode
+          plugin_posts_user: priyankarpal
