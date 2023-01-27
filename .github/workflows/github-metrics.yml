@@ -27,7 +27,7 @@ jobs:
           # Options
           user: priyankarpal
           template: classic
-          base: activity, community, repositories, metadata
+          base: activity, community, repositories
           base_hireable: yes
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
