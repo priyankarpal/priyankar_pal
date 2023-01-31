@@ -26,10 +26,7 @@ jobs:
           # Options
           user: priyankarpal
           template: classic
-          base: header, activity, community, repositories
-          base_hireable: yes
-          base_indepth: yes
-          config_octicon: yes
+          base: activity, community, repositories
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -39,8 +36,5 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_types: commit
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
+
  
