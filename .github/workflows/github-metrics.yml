@@ -24,7 +24,7 @@ jobs:
 
           # Options
           user: priyankarpal
-          template: Markdown
+          template: classic
           base: activity, community, repositories
           config_timezone: Asia/Calcutta
           plugin_notable: yes
