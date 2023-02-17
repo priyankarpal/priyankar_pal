@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://itspp.hashnode.dev/rss.xml"
-          template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)
+          template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮,🤯,😇,🥵,🤙)  [$title]($url)
 
