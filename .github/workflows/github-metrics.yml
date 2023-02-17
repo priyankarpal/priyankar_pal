@@ -34,10 +34,5 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_posts: yes
-          plugin_posts_covers: yes
-          plugin_posts_descriptions: yes
-          plugin_posts_limit: 4
-          plugin_posts_source: hashnode
-          plugin_posts_user: priyankarpal
+
  
