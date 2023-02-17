@@ -18,7 +18,7 @@ jobs:
         with:
           feed_list: "https://itspp.hashnode.dev/rss.xml"
 #           template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)
-          template: "- `$date` | [$title]($url) | `$description` $newline"
+          template: "<tr><td>[$itle]($url)</td><td>$description</td></tr>$newline"
           date_format: yyyy-mm-dd
           tag_post_pre_newline: true
           description_max_length: 140
