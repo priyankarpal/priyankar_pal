@@ -3,14 +3,14 @@
 
 ![Metrics](/github-metrics.svg)
 # Blog posts
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://itspp.hashnode.dev/how-to-contribute-your-first-code-to-open-source">How to contribute your first code to open source?</td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://itspp.hashnode.dev/how-to-contribute-your-first-code-to-open-source">How to contribute your first code to open source?</a></td></tr>
 <tr><td><a href="https://itspp.hashnode.dev/how-to-contribute-your-first-code-to-open-source">How to contribute your first code to open source?</a></td></tr>
-<tr><td><a href="https://itspp.hashnode.dev/what-are-the-10-high-paying-job-roles-in-software-development">What are the 10 high-paying job roles in software development?🤔</td></tr>
 <tr><td><a href="https://itspp.hashnode.dev/what-are-the-10-high-paying-job-roles-in-software-development">What are the 10 high-paying job roles in software development?🤔</a></td></tr>
-<tr><td><a href="https://itspp.hashnode.dev/why-should-we-use-a-webp-image-instead-of-png-or-jpg">Why should we use a Webp image instead of PNG or JPG?</td></tr>
+<tr><td><a href="https://itspp.hashnode.dev/what-are-the-10-high-paying-job-roles-in-software-development">What are the 10 high-paying job roles in software development?🤔</a></td></tr>
 <tr><td><a href="https://itspp.hashnode.dev/why-should-we-use-a-webp-image-instead-of-png-or-jpg">Why should we use a Webp image instead of PNG or JPG?</a></td></tr>
-<tr><td><a href="https://itspp.hashnode.dev/how-to-track-html-website-visitors">How to track HTML Website visitors?</td></tr>
+<tr><td><a href="https://itspp.hashnode.dev/why-should-we-use-a-webp-image-instead-of-png-or-jpg">Why should we use a Webp image instead of PNG or JPG?</a></td></tr>
 <tr><td><a href="https://itspp.hashnode.dev/how-to-track-html-website-visitors">How to track HTML Website visitors?</a></td></tr>
-<tr><td><a href="https://itspp.hashnode.dev/the-birth-of-the-linux-kernel">The birth of the Linux Kernel</td></tr>
+<tr><td><a href="https://itspp.hashnode.dev/how-to-track-html-website-visitors">How to track HTML Website visitors?</a></td></tr>
+<tr><td><a href="https://itspp.hashnode.dev/the-birth-of-the-linux-kernel">The birth of the Linux Kernel</a></td></tr>
 <tr><td><a href="https://itspp.hashnode.dev/the-birth-of-the-linux-kernel">The birth of the Linux Kernel</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
