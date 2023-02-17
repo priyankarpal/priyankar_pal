@@ -18,7 +18,5 @@ jobs:
         with:
           feed_list: "https://itspp.hashnode.dev/rss.xml"
           item_exec: |
-                if (post.categories.includes("opensource")) {
-                    post.title = "🔥 " + post.title;
-                    |
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline"
+          template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline
+#           template: $newline - [$title]($url) - $categories
