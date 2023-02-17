@@ -18,5 +18,5 @@ jobs:
         with:
           feed_list: "https://itspp.hashnode.dev/rss.xml"
           item_exec: |
-          template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) - $categories
+          template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)
 #         template: $newline - [$title]($url) - $categories
