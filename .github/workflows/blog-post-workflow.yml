@@ -17,3 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://itspp.hashnode.dev/rss.xml"
+          item_exec: |
+                if (post.categories.includes("category-name")) {
+                    post.title = "🔥 " + post.title;
+                |
