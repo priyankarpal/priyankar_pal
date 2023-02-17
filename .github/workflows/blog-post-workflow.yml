@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://itspp.hashnode.dev/rss.xml"
 #           template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)
           template: '<tr><td><a href="$url"></td>$newline<td><a href="$url">$title</a> ($date)<br/>$description</td></tr>$newline'
-          
+          description_max_length: 140
