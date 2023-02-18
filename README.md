@@ -22,12 +22,4 @@ As the demand for technology continues to grow, the need for skilled software de
 <div><strong>12 Feb 2023</strong> | <strong>Updated: 12 Feb 2023</strong></div>
 <br/> In today's digital world, images play a significant role in enhancing the user experience on websites. Image format selection becomes essential for SEO. Several image formats are available, including PNG, JPG, and WebP.
 This blog will explore why Web... </p> <br/> <br/>
-<p align="left">
-<a href="https://itspp.hashnode.dev//how-to-track-html-website-visitors" title="How to track HTML Website visitors?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676118078802/09c0e5fb-b8f9-482b-bf4a-112740bf6b34.png" alt="How to track HTML Website visitors?" width="250px" align="left" /></a>
-<a href="https://itspp.hashnode.dev//how-to-track-html-website-visitors" title="How to track HTML Website visitors?"><strong>How to track HTML Website visitors?</strong></a>
-<div><strong>11 Feb 2023</strong></div>
-<br/> Yes! in this blog I will guide you on how you can see your website's analytics just by using a script tag. Before going to the main topic make sure you hosted your website on Vercel.
-
-Connect your website to Vercel analytics Code:
-Make sure that you ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
