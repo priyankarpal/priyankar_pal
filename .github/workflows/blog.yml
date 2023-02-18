@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'priyankarpal'  # Hashnode Username
           BLOG_URL: 'https://itspp.hashnode.dev/' # Blog URL
-          COUNT: 4 # MAX Visisble
+          COUNT: 3 # MAX Visisble
           STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
