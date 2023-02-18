@@ -2,7 +2,7 @@
 <a href="https://app.daily.dev/priyankarpal"><img src="https://github.com/priyankarpal/priyankarpal/blob/main/devcard.svg" width="300" align="right" alt="Priyankar's Dev Card"/></a>
 
 ![Metrics](/github-metrics.svg)
-# Blog posts
+### 📌 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
  - 🤯   [How to contribute your first code to open source?](https://itspp.hashnode.dev/how-to-contribute-your-first-code-to-open-source)
  - 🤙   [What are the 10 high-paying job roles in software development?🤔](https://itspp.hashnode.dev/what-are-the-10-high-paying-job-roles-in-software-development)
