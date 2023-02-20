@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://itspp.hashnode.dev//how-to-contribute-your-first-code-to-open-source" title="How to contribute your first code to open source?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676619786283/4f916a85-b785-4da9-a181-d2f44d947c61.png" alt="How to contribute your first code to open source?" width="250px" align="left" /></a>
 <a href="https://itspp.hashnode.dev//how-to-contribute-your-first-code-to-open-source" title="How to contribute your first code to open source?"><strong>How to contribute your first code to open source?</strong></a>
-<div><strong>17 Feb 2023</strong> | <strong>Updated: 18 Feb 2023</strong></div>
+<div><strong>17 Feb 2023</strong> | <strong>Updated: 19 Feb 2023</strong></div>
 <br/> Open-source software has become increasingly popular over the years, with many individuals and organizations contributing to the development of open-source projects.
 Contributing to an open-source project can be a great way to improve your programmin... </p> <br/> <br/>
 <p align="left">
